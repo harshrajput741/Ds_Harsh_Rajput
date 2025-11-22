@@ -1,0 +1,9 @@
+`import os`
+`import pandas as pd`
+`import numpy as np`
+`import matplotlib.pyplot as plt`
+`import seaborn as sns`
+`fg = pd.read_csv('/content/fear_greed_index.csv', sep = ',')`
+`tr = pd.read_csv('/content/historical_data.csv', sep = ',')`
+`fg.head()`
+`tr.head()`
