@@ -1,0 +1,16 @@
+ds_Harsh_Rajput/
+│
+├── notebook_1.ipynb
+├── ds_report.pdf
+├── README.md
+│
+├── csv_files/
+│   ├── fear_greed_index.csv
+│   └── historical_data.csv
+│
+└── outputs/
+    ├── merged_daily_metrics.csv
+    ├── daily_aggregates.csv
+    ├── grouped_by_sentiment.csv
+    ├── correlation_matrix.csv
+    ├── *.png charts
