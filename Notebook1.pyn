@@ -1,0 +1,7 @@
+── notebook_1.ipynb
+├── csv_files/ # Store all CSVs or data outputs here.
+│ └── 
+├── outputs/ # Store all visual outputs, graphs, or charts here.
+│ └── 
+├── ds_report.pdf # Final summarized insights and explanations.
+└── README.md # (Optional but encouraged) Setup instructions, notes
